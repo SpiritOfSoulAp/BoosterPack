@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9efb5efe7db82eb4fbc8067f37e904d1, type: 3}
+  m_Name: CardDatabase
+  m_EditorClassIdentifier: 
+  cards:
+  - cardName: Absol
+    rarity: 2
+    cardImage: {fileID: 21300000, guid: eb7f2bc9befc6bf458389a790f9078a2, type: 3}
+    description: A Dark-type Pokemon known for sensing disasters and appearing before
+      they occur.
+  - cardName: Blastoise
+    rarity: 3
+    cardImage: {fileID: 21300000, guid: 28f182b1df56b024d88476b9497be3d1, type: 3}
+    description: '"A powerful Water-type Pokemon with hydro cannons on its shell'
+  - cardName: Bulbasaur
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: a4e1c8440b3bc7141b40a93728ba91b6, type: 3}
+    description: '"A dual-type Grass/Poison Pokemon known for the seed on its back'
+  - cardName: Charizard
+    rarity: 2
+    cardImage: {fileID: 21300000, guid: 48fc39a783e54f34c962cb6f01998d1f, type: 3}
+    description: A Fire/Flying-type Pokemon that breathes intense flames and soars
+      through the sky.
+  - cardName: Charizard Mega X
+    rarity: 3
+    cardImage: {fileID: 21300000, guid: 99424b2753c81a74aa171041c69c099e, type: 3}
+    description: The Mega Evolution of Charizard with Dragon-type power and a fearsome
+      dark appearance.
+  - cardName: Charizard Mega Y
+    rarity: 3
+    cardImage: {fileID: 21300000, guid: a5067324e151a4a4ebf2b0ed6cc7860c, type: 3}
+    description: "A Mega Evolution that intensifies Charizard\u2019s fiery abilities
+      and grants supreme aerial prowess."
+  - cardName: Charmander
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: 5fefbb7b095155d438083acac4159f95, type: 3}
+    description: A friendly Fire-type Pokemon with a burning tail flame that reflects
+      its health and mood.
+  - cardName: Charmeleon
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: 96d9505230323e74f8d8accb739b0aea, type: 3}
+    description: '"The evolved form of Charmander'
+  - cardName: Gyarados Mega
+    rarity: 1
+    cardImage: {fileID: 21300000, guid: 9cdc1b06e54abea4eaa099992e7e9906, type: 3}
+    description: '"The terrifying Mega Evolution of Gyarados'
+  - cardName: Pikachu
+    rarity: 1
+    cardImage: {fileID: 21300000, guid: 347d16da36cc56846b5796a0f26b637f, type: 3}
+    description: An Electric-type Pokemon known worldwide for its cuteness and shocking
+      electric attacks.
+  - cardName: Sawk
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: 9ca8151ea92bcf04daf3337e5dcb3933, type: 3}
+    description: A Fighting-type Pokemon that practices martial arts with powerful
+      precision strikes.
+  - cardName: Throh
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: b8515de3b4561734d82315dfb5794ef4, type: 3}
+    description: A robust Fighting-type Pokemon known for its throwing techniques
+      and grappling strength.
+  - cardName: Eevee
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: f2718e8277b1af24aa2d6a89736e7c5d, type: 3}
+    description: A unique Pokemon with unstable genetic makeup that allows it to
+      evolve into various forms.
+  - cardName: Glaceon
+    rarity: 1
+    cardImage: {fileID: 21300000, guid: 16f1960e977a9de4ca4b61d78448e9ad, type: 3}
+    description: '"An Ice-type evolution of Eevee'
+  - cardName: Leafeon
+    rarity: 1
+    cardImage: {fileID: 21300000, guid: ed66c47d0ae44b7478b25f21a4e07f33, type: 3}
+    description: '"The Grass-type evolution of Eevee'
+  - cardName: Ivysaur
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: b9ada7d5170e93a4db1d89c94cd9ea7d, type: 3}
+    description: '"The evolved form of Bulbasaur'
+  - cardName: Mew
+    rarity: 1
+    cardImage: {fileID: 21300000, guid: 8d1e9424be36f614b8a7f14a18eec0f6, type: 3}
+    description: A mythical Pokemon said to contain the DNA of every other Pokemon
+      in existence.
+  - cardName: Squirtle
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: fba094499d7537646ac6b4f5a5635580, type: 3}
+    description: A Water-type Pokemon that hides in its shell and sprays water with
+      great force.
+  - cardName: Umbreon
+    rarity: 1
+    cardImage: {fileID: 21300000, guid: 18bc6fe21fb2684408e0633fc074baa4, type: 3}
+    description: '"A Dark-type evolution of Eevee'
+  - cardName: Venusaur
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: c70c465a0c64b8e4c9e20d7c1bae04c8, type: 3}
+    description: '"The final evolution of Bulbasaur'
+  - cardName: Wartortle
+    rarity: 0
+    cardImage: {fileID: 21300000, guid: 559f037ae7ecb38419151cdc483b4ae0, type: 3}
+    description: '"The evolved form of Squirtle'

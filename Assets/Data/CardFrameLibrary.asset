@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c97f1526f9c73d49b22af2b994aafb7, type: 3}
+  m_Name: CardFrameLibrary
+  m_EditorClassIdentifier: 
+  rareFrame: {fileID: 21300000, guid: 6a1e53fb27cd53845abfbd010ffc0741, type: 3}
+  epicFrame: {fileID: 21300000, guid: a07e56adf6f48c840a61b66127d7cdc8, type: 3}
+  legendaryFrame: {fileID: 21300000, guid: 1bb3a7e2db2b27a4a85eaa561e7bd8d8, type: 3}
+  commonFrame: {fileID: 21300000, guid: dd0d33b9abfbe514db13d41e53bd20a4, type: 3}
+  cardBack: {fileID: 21300000, guid: 8747f4e82794e1f4087cbee65d9614da, type: 3}

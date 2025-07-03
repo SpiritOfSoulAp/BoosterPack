@@ -1,0 +1,4 @@
+repository "MyResearch/BoosterPack@17867144245706@cloud"
+  path "/"
+    br "/main"
+    co "/main"

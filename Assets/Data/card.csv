@@ -1,0 +1,22 @@
+No.,cardName,rarity,cardImagePath,description
+1,Absol,Epic,Assets/Sprites/Pokemon/absol.png,A Dark-type Pokemon known for sensing disasters and appearing before they occur.
+2,Blastoise,Legendary,Assets/Sprites/Pokemon/blastoise.png,"A powerful Water-type Pokemon with hydro cannons on its shell, capable of blasting opponents with intense force."
+3,Bulbasaur,Common,Assets/Sprites/Pokemon/bulbasaur.png,"A dual-type Grass/Poison Pokemon known for the seed on its back, which grows with it."
+4,Charizard,Epic,Assets/Sprites/Pokemon/charizard.png,A Fire/Flying-type Pokemon that breathes intense flames and soars through the sky.
+5,Charizard Mega X,Legendary,Assets/Sprites/Pokemon/charizard_mega_x.png,The Mega Evolution of Charizard with Dragon-type power and a fearsome dark appearance.
+6,Charizard Mega Y,Legendary,Assets/Sprites/Pokemon/charizard_mega_y.png,A Mega Evolution that intensifies Charizard’s fiery abilities and grants supreme aerial prowess.
+7,Charmander,Common,Assets/Sprites/Pokemon/charmander.png,A friendly Fire-type Pokemon with a burning tail flame that reflects its health and mood.
+8,Charmeleon,Uncommon,Assets/Sprites/Pokemon/charmeleon.png,"The evolved form of Charmander, known for its fierce temperament and stronger flames."
+9,Gyarados Mega,Rare,Assets/Sprites/Pokemon/gyarados_mega.png,"The terrifying Mega Evolution of Gyarados, a Water/Dark-type Pokemon feared across seas."
+10,Pikachu,Rare,Assets/Sprites/Pokemon/pikachu.png,An Electric-type Pokemon known worldwide for its cuteness and shocking electric attacks.
+11,Sawk,Uncommon,Assets/Sprites/Pokemon/sawk.png,A Fighting-type Pokemon that practices martial arts with powerful precision strikes.
+12,Throh,Uncommon,Assets/Sprites/Pokemon/throh.png,A robust Fighting-type Pokemon known for its throwing techniques and grappling strength.
+13,Eevee,Uncommon,Assets/Sprites/Pokemon/eevee.png,A unique Pokemon with unstable genetic makeup that allows it to evolve into various forms.
+14,Glaceon,Rare,Assets/Sprites/Pokemon/glaceon.png,"An Ice-type evolution of Eevee, capable of freezing the air around it into sharp needles."
+15,Leafeon,Rare,Assets/Sprites/Pokemon/leafeon.png,"The Grass-type evolution of Eevee, known for its fresh leafy aroma and calm nature."
+16,Ivysaur,Uncommon,Assets/Sprites/Pokemon/ivysaur.png,"The evolved form of Bulbasaur, carrying a blooming bud that gathers energy from sunlight."
+17,Mew,Rare,Assets/Sprites/Pokemon/mew.png,A mythical Pokemon said to contain the DNA of every other Pokemon in existence.
+18,Squirtle,Uncommon,Assets/Sprites/Pokemon/squirtle.png,A Water-type Pokemon that hides in its shell and sprays water with great force.
+19,Umbreon,Rare,Assets/Sprites/Pokemon/umbreon.png,"A Dark-type evolution of Eevee, known for its glowing rings and silent, elusive demeanor."
+20,Venusaur,Uncommon,Assets/Sprites/Pokemon/venusaur.png,"The final evolution of Bulbasaur, with a large flower that blooms with solar power."
+21,Wartortle,Uncommon,Assets/Sprites/Pokemon/wartortle.png,"The evolved form of Squirtle, recognized by its fluffy tail and enhanced shell defense."
